@@ -1,0 +1,9 @@
+├── backup
+├── Katalog
+├── kolokwium
+├── Kolokwium
+│   └── wynik.txt
+├── README.md
+├── sceizka.txt
+├── wynik.txt
+└── zadanie
